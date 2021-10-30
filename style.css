@@ -1,0 +1,29 @@
+*{
+    margin: auto;
+    padding: auto;
+}
+.header-section{
+    text-align: center;
+    background-color: #FCB9D1;
+    padding: 30px 20px;    
+    font-size: 30px;
+    font-weight: bold;
+}
+.number-section {
+    background-color: #FCB9D1;
+    font-size: 32px;
+}
+.a-contact{
+    position: relative;
+}
+.heading-1 {
+    background-color: red;
+    padding: 10px 41px;
+    font-weight: bold;
+    position: sticky;
+    top: 0;
+}
+span{
+    display: block;
+    padding: 10px 41px;
+}
